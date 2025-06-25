@@ -1,0 +1,3 @@
+drink milk 
+[x]Eat salad 
+drink water 
