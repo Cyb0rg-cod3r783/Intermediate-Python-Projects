@@ -115,3 +115,5 @@ elif operation == "inverse":
             print("\nInverse: Matrix is singular (det = 0), so inverse doesn't exist.")
     else:
         print("\nInverse: Not defined for non-square matrices.")
+
+# you can also add more features to this as per your choice
