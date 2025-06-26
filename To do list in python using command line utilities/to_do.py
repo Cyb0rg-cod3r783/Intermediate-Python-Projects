@@ -67,7 +67,7 @@ elif args.done:
         print("Task list is empty.")
 
 
-# Add More Features to Your To-Do App (Mini Extensions)
+# Add More Features to Your To-Do App (Mini Extensions).
 
 # Make it even better:
 
